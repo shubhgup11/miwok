@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">#2F1D1A</item>
+        <item name="colorAccent">#10FFFF</item>
+        <item name="colorPrimary">#4A312A</item>
+    </style>
+    <style name="head">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">88dp</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+    </style>
+</resources>
